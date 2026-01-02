@@ -42,7 +42,9 @@ Veri tutarlılığı için @Transactional kullanılmıştır.
 
  ## Proje Yapısı
  src/main/java
+ 
  └── com.example.influencersponsorship
+ 
      ├── controller
      ├── service
      ├── repository
@@ -51,6 +53,7 @@ Veri tutarlılığı için @Transactional kullanılmıştır.
      ├── exception
      ├── handler
      └── InfluencerSponsorshipApplication.java
+
 
  
  ## Kurulum ve Çalıştırma
